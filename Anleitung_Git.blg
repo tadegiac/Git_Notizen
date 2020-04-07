@@ -1,0 +1,9 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'Anleitung_Git.blg'
+[84] biber-MSWIN64:322> INFO - === 
+[108] Biber.pm:415> INFO - Reading 'Anleitung_Git.bcf'
+[236] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[245] Utils.pm:304> WARN - The file 'Anleitung_Git.bcf' does not contain any citations!
+[258] bbl.pm:652> INFO - Writing 'Anleitung_Git.bbl' with encoding 'UTF-8'
+[259] bbl.pm:755> INFO - Output to Anleitung_Git.bbl
+[261] Biber.pm:128> INFO - WARNINGS: 1
